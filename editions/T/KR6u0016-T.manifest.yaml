@@ -1,0 +1,162 @@
+canonical_identifier: bkk:krp/KR6u0016/T/v1
+canonical_location: https://kanripo.org/bkk/KR6u0016/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 究竟大悲經卷第二．三．四
+  identifiers:
+    krp: KR6u0016
+    cbeta: T85n2880
+    cbeta_old_id: T85n2880
+    authorityid: CA0004898
+    json_key: T2880
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2880.xml
+    old_id: T85n2880
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6u0016_000-T.yaml, hash: 'sha256:b0b77d67afa7644acbb40dd85ec93267c0c6f5a9163b8376a367e09404521b2d'}
+  - {seq: 2, filename: KR6u0016_002-T.yaml, hash: 'sha256:a312a8945d6cb8d88b77e0bc546c610405a9c86d7cf210e7502ead79fd2bab31'}
+  - {seq: 3, filename: KR6u0016_003-T.yaml, hash: 'sha256:32780ffc99f0fcc86fdab8c59b2dd7f98bd8255f77661f2015fc0c0024df8598'}
+  - {seq: 4, filename: KR6u0016_004-T.yaml, hash: 'sha256:943c5723383545e985b19b1d339ca9d5542ec90abc93efcee8a144cc01f50144'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6u0016_000-T.markers.yaml, hash: 'sha256:f45fc3b43b97c725827982ccc99888a5cc1fafeb9abb6dfe168b5ed86d45377a'}
+  - {seq: 2, role: markers, filename: assets/KR6u0016_002-T.markers.yaml, hash: 'sha256:bff0f56674b40ac62c1ed07832e43129b5b464c0d686590d4d6a661f8d95aac3'}
+  - {seq: 3, role: markers, filename: assets/KR6u0016_003-T.markers.yaml, hash: 'sha256:afeb5714a94a3ac756060ec19ebd5a680657769aec055d8cc107b93836d59fe7'}
+  - {seq: 4, role: markers, filename: assets/KR6u0016_004-T.markers.yaml, hash: 'sha256:bd55e04527d47656d0b01f7d7aee6dbc214eb144b6149ccabf76308a5b50f0d6'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6u0016_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 4940
+  label: 究竟大悲經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6u0016_T_002-mulu-1
+    span:
+    - body
+    - 1304
+    - 1304
+  label: 6 顯一切眾生身內有佛父母品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6u0016_T_002-mulu-2
+    span:
+    - body
+    - 2017
+    - 2017
+  label: 7 對治服藥治病品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6u0016_T_002-mulu-3
+    span:
+    - body
+    - 3666
+    - 3666
+  label: 8 除一切眾生修道作佛病品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6u0016_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 5598
+  label: 究竟大悲經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6u0016_T_003-mulu-1
+    span:
+    - body
+    - 1109
+    - 1109
+  label: 10 一切諸法即相解脫品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6u0016_T_003-mulu-2
+    span:
+    - body
+    - 2240
+    - 2240
+  label: 11 即相無相萬物不遷事用究竟品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6u0016_T_003-mulu-3
+    span:
+    - body
+    - 4180
+    - 4180
+  label: 12 顯一切眾生身與法一如無二品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6u0016_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 5215
+  label: 究竟大悲經卷第四端供二年
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6u0016_T_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 13 對一切眾生辯邪正品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6u0016_T_004-mulu-2
+    span:
+    - body
+    - 1921
+    - 1921
+  label: 14 起信皆是宿基品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6u0016_T_004-mulu-3
+    span:
+    - body
+    - 3211
+    - 3211
+  label: 15 校量功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6u0016_T_004-mulu-4
+    span:
+    - body
+    - 4380
+    - 4380
+  label: 16 流通品
+  type: mulu
+  level: 1
+hash: sha256:0b3f834534b7b4d4fde3e800a07c87f8bf414f6b7610bdbab3d78c3b82b39e7c

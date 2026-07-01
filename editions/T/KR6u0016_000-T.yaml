@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6u0016/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 究竟大悲經卷第二．三．四
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2880.xml
+    old_id: T85n2880
+hash: sha256:b0b77d67afa7644acbb40dd85ec93267c0c6f5a9163b8376a367e09404521b2d
